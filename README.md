@@ -1,5 +1,7 @@
 # Instagram Post Scraper — Apify Actor usage guide
 
+[![Run for free on Apify](https://img.shields.io/badge/Apify-Run%20it%20free%20%E2%80%94%20%245%2Fmo%20credit-24C1E0)](https://console.apify.com/sign-up?fpr=aupara)
+
 Extract data from any public Instagram post by URL. Get caption, likes, comments, hashtags, mentions, author username, image URL & timestamp instantly. No account needed — stealth browser bypasses bot detection.
 
 > **This repository does not contain the Actor's source code.** The Actor
